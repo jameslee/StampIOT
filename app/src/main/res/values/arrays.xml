@@ -1,0 +1,23 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="stamps_array">
+        <item>60ー6</item>
+        <item>80Tー1</item>
+        <item>80Tー2</item>
+        <item>80Tー3</item>
+        <item>80Tー4</item>
+        <item>110T</item>
+        <item>200T</item>
+    </string-array>
+
+</resources>

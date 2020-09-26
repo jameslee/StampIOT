@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">冲压加工录入</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_setting">系统设置</string>
+
+    <string name="server_status">服务器状态：</string>
+
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="progressTtile">本次进度：</string>
+    <string name="dialog_fire_missiles">服务器连接失败！</string>
+
+</resources>
+
